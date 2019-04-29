@@ -2,4 +2,4 @@
 
 **Language:** javascript
 
-**Content:** Example about iterators and arrays.
+**Content:** Example about conditionals.
