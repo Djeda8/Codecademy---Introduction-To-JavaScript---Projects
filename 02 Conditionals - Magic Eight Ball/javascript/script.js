@@ -2,7 +2,7 @@ let userName = 'Daniel';
 
 userName ? console.log(`Hello, ${userName}.`) : console.log('Hello!');
 
-let userQuestion = 'Do i beleave this?';
+let userQuestion = 'Do you beleave this?';
 let randomNumber = Math.floor(Math.random() * 7);
 let eightBall = '';
 
